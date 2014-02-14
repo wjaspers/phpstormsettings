@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="ProjectManager">
+    <defaultProject version="4">
+      <component name="ComposerSettings">
+        <pharPath>E:\My Documents\PHPStormConfig\composer.phar</pharPath>
+      </component>
+      <component name="CoverageOptionsProvider">
+        <option name="myActivateViewOnRun" value="false" />
+      </component>
+      <component name="DaemonCodeAnalyzer">
+        <disable_hints />
+      </component>
+      <component name="DependencyValidationManager">
+        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+      </component>
+      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+      <component name="InspectionProjectProfileManager">
+        <profiles>
+          <profile version="1.0" is_locked="false">
+            <option name="myName" value="Project Default" />
+            <option name="myLocal" value="false" />
+            <inspection_tool class="CssConvertColorToRgbInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+            <inspection_tool class="CssMissingSemicolon" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+            <inspection_tool class="JSHint" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="JSLint" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="PhingDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+            <inspection_tool class="PhpAbstractStaticMethodInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="PhpAssignmentInConditionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+            <inspection_tool class="PhpCSValidationInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+              <option name="CODING_STANDARD" value="Custom" />
+            </inspection_tool>
+            <inspection_tool class="PhpDeprecationInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+            <inspection_tool class="PhpDocMissingReturnTagInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpDocMissingThrowsInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpDocSignatureInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpDuplicateArrayKeysInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpDuplicateCaseInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpIncludeInspection" enabled="true" level="INFO" enabled_by_default="true" />
+            <inspection_tool class="PhpLanguageLevelInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
+            <inspection_tool class="PhpMissingDocCommentInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true">
+              <option name="CHECK_CONSTANT" value="true" />
+              <option name="CHECK_FIELD" value="true" />
+              <option name="CHECK_CLASS_CONSTANT" value="true" />
+            </inspection_tool>
+            <inspection_tool class="PhpMultipleClassesDeclarationsInOneFile" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="PhpNonCompoundUseInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpRedundantClosingTagInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="PhpSillyAssignmentInspection" enabled="true" level="DONT_BE_LAZY" enabled_by_default="true" />
+            <inspection_tool class="PhpToStringImplementationInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+            <inspection_tool class="PhpUnnecessaryFullyQualifiedNameInspection" enabled="true" level="WARNING" enabled_by_default="true">
+              <option name="ENABLE_IN_FILE_SCOPE" value="true" />
+            </inspection_tool>
+            <inspection_tool class="PhpUnreachableStatementInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="PhpUsageOfSilenceOperatorInspection" enabled="true" level="SERVER PROBLEM" enabled_by_default="true" />
+            <inspection_tool class="PhpVoidFunctionResultUsedInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="SassScssUnresolvedVariable" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="SqlAmbiguousColumnInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="SqlAutoIncrementDuplicateInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="SqlInsertValuesInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+            <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="true" />
+          </profile>
+        </profiles>
+        <option name="PROJECT_PROFILE" value="Project Default" />
+        <option name="USE_PROJECT_PROFILE" value="true" />
+        <version value="1.0" />
+        <info color="ffffcc">
+          <option name="EFFECT_COLOR" value="ffffff" />
+          <option name="EFFECT_TYPE" value="5" />
+          <option name="myName" value="DONT_BE_LAZY" />
+          <option name="myVal" value="50" />
+          <option name="myExternalName" value="DONT_BE_LAZY" />
+          <option name="myDefaultAttributes">
+            <value />
+          </option>
+        </info>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="DONT_BE_LAZY" />
+          <item index="1" class="java.lang.String" itemvalue="TYPO" />
+          <item index="2" class="java.lang.String" itemvalue="SERVER PROBLEM" />
+          <item index="3" class="java.lang.String" itemvalue="WEAK WARNING" />
+          <item index="4" class="java.lang.String" itemvalue="INFO" />
+          <item index="5" class="java.lang.String" itemvalue="WARNING" />
+          <item index="6" class="java.lang.String" itemvalue="ERROR" />
+        </list>
+      </component>
+      <component name="JSHintConfiguration" version="2.3.0" use-config-file="false">
+        <option bitwise="true" />
+        <option camelcase="true" />
+        <option curly="true" />
+        <option eqeqeq="true" />
+        <option es3="false" />
+        <option forin="true" />
+        <option freeze="false" />
+        <option immed="false" />
+        <option newcap="true" />
+        <option noarg="true" />
+        <option noempty="true" />
+        <option nonew="true" />
+        <option plusplus="false" />
+        <option undef="true" />
+        <option strict="true" />
+        <option trailing="false" />
+        <option latedef="true" />
+        <option unused="strict" />
+        <option quotmark="double" />
+        <option asi="false" />
+        <option boss="false" />
+        <option debug="false" />
+        <option eqnull="false" />
+        <option esnext="false" />
+        <option evil="false" />
+        <option expr="false" />
+        <option funcscope="false" />
+        <option globalstrict="false" />
+        <option iterator="false" />
+        <option lastsemic="false" />
+        <option laxbreak="false" />
+        <option laxcomma="false" />
+        <option loopfunc="false" />
+        <option moz="false" />
+        <option multistr="false" />
+        <option notypeof="false" />
+        <option proto="false" />
+        <option scripturl="false" />
+        <option smarttabs="false" />
+        <option shadow="false" />
+        <option sub="false" />
+        <option supernew="false" />
+        <option validthis="false" />
+        <option browser="true" />
+        <option couch="false" />
+        <option devel="false" />
+        <option dojo="false" />
+        <option jquery="true" />
+        <option mootools="false" />
+        <option node="true" />
+        <option nonstandard="false" />
+        <option phantom="false" />
+        <option prototypejs="false" />
+        <option rhino="false" />
+        <option worker="false" />
+        <option wsh="false" />
+        <option yui="false" />
+        <option nomen="true" />
+        <option onevar="true" />
+        <option passfail="true" />
+        <option white="true" />
+        <option maxerr="100" />
+      </component>
+      <component name="JSLintConfiguration" json="true">
+        <option indent="4" />
+        <option maxerr="50" />
+        <option stupid="true" />
+      </component>
+      <component name="JavaScriptLibraryMappings">
+        <includedPredefinedLibrary name="Node.js Globals" />
+      </component>
+      <component name="PhpUnit" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="" />
+      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+      <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="localhost" />
+      <component name="ProjectDictionaryState">
+        <dictionary name="wjaspers" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Spelling</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SpellCheckingInspection</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+        <OptionsSetting value="true" id="Add" />
+        <OptionsSetting value="true" id="Remove" />
+        <OptionsSetting value="true" id="Checkout" />
+        <OptionsSetting value="true" id="Update" />
+        <OptionsSetting value="true" id="Status" />
+        <OptionsSetting value="true" id="Edit" />
+        <ConfirmationsSetting value="1" id="Add" />
+        <ConfirmationsSetting value="1" id="Remove" />
+      </component>
+      <component name="ProjectModuleManager">
+        <modules />
+      </component>
+      <component name="ProjectRootManager" version="2" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="" />
+        <property name="JavaScriptLanguageLevel" value="ES5" />
+        <property name="JavaScriptPreferStrict" value="true" />
+        <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+        <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
+        <property name="options.splitter.main.proportions" value="0.3" />
+        <property name="options.splitter.details.proportions" value="0.2" />
+        <property name="options.searchVisible" value="true" />
+      </component>
+      <component name="RunManager">
+        <list size="0" />
+      </component>
+      <component name="SshConsoleOptionsProvider">
+        <option name="myEncoding" value="UTF-8" />
+        <option name="myConnectionType" value="NONE" />
+      </component>
+      <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+        <option name="USER" value="" />
+        <option name="PASSWORD" value="" />
+        <option name="mySSHConnectionTimeout" value="30000" />
+        <option name="mySSHReadTimeout" value="30000" />
+        <option name="LAST_MERGED_REVISION" />
+        <option name="MERGE_DRY_RUN" value="false" />
+        <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+        <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+        <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+        <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+        <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+        <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+        <option name="FORCE_UPDATE" value="false" />
+        <option name="IGNORE_EXTERNALS" value="false" />
+        <configuration useDefault="false"></configuration>
+        <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+      </component>
+      <component name="VagrantSettings">
+        <option name="instanceFolder" value="" />
+        <option name="provider" value="" />
+        <option name="vagrantExecutable" value="vagrant.bat" />
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="myTodoPanelSettings">
+          <TodoPanelSettings />
+        </option>
+        <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+        <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="false" />
+        <confirmRemoveEmptyChangelist value="1" />
+        <option name="SHOW_PATCH_IN_EXPLORER" value="true" />
+        <option name="USE_COMMIT_MESSAGE_MARGIN" value="true" />
+        <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+        <option name="FORCE_NON_EMPTY_COMMENT" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ScopeChooserConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
+

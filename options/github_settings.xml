@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="wjaspers" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="CONNECTION_TIMEOUT" value="2500" />
+  </component>
+</application>
+

@@ -1,0 +1,10 @@
+PerforceDirectPlugin
+com.jetbrains.php.gae
+cucumber
+com.intellij.jsp
+Refactor-X
+org.jetbrains.plugins.textmate
+org.jetbrains.plugins.haml
+CVS
+org.jetbrains.plugins.rest
+hg4idea
